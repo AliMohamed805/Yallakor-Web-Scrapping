@@ -13,7 +13,6 @@ The scraper automatically extracts:
 - ⚽ Away team
 - 🔢 Match score
 - 🕒 Match time
-- 📅 Match date
 
 The output is saved in CSV format using UTF-8 encoding to properly handle Arabic characters.
 
